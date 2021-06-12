@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://test-osvita-code-v2.github.io/robotics/robotics/sitemap.xml
