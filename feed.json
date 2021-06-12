@@ -9,21 +9,6 @@
   },
   "items": [
     {
-      "title": "Вступ, підготовка mBot",
-      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/",
-      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/",
-      "summary": "Вступ до робототехніки mBot",
-      "content_html": "<h2 id=\"вступ-підготовка-mbot\"> Вступ, підготовка mBot</h2>\n<embed src=\"/assets/files/0.pdf\" width=\"820px\" height=\"2340px\" />\n",
-      "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
-      "authors": [
-        {
-          "name": "Serhii73, RenatTOP, Anat0liy12"
-        }
-      ],
-      "tags": []
-    },
-    {
       "title": "mBot",
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/",
@@ -39,13 +24,13 @@
       "tags": []
     },
     {
-      "title": "Урок 1: Мишеня любить яблука",
-      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/",
-      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/",
-      "summary": "Мишеня любить яблука mBot",
-      "content_html": "<h1 id=\"урок-1-мишеня-любить-яблука\"> Урок 1: Мишеня любить яблука</h1>\n<embed src=\"/assets/files/1.pdf\" width=\"820px\" height=\"3470px\" />\n<embed src=\"https://www.youtube.com/embed/Roxwr3YNgdQ\" width=\"820px\" height=\"500px\" />\n",
+      "title": "Вступ, підготовка mBot",
+      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/",
+      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/",
+      "summary": "Вступ до робототехніки mBot",
+      "content_html": "<h2 id=\"вступ-підготовка-mbot\"> Вступ, підготовка mBot</h2>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/0.pdf\" width=\"820px\" height=\"2340px\" />\n",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -57,10 +42,25 @@
       "title": "Robotics mBot",
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/",
-      "content_html": "<h1 id=\"robotics-mbot\"> Robotics mBot</h1>\n<h2 id=\"навчись-програмувати-роботів-mbot\"> Навчись програмувати роботів mBot</h2>\n<p><img src=\"/assets/images/robotics.jpg\" alt=\"mBot\" /></p>\n<p><em><strong>Робототехніка</strong></em> — прикладна наука, що опікується проєктуванням, розробкою, будівництвом, експлуатацією та використанням роботів, а також комп'ютерних систем для їх контролю, сенсорного (на основі вихідних сигналів давачів) зворотного зв'язку і обробки інформації автоматизованих технічних систем (роботів).\n<em><strong>mBot</strong></em> — освітній ігровий партнер для дітей, які вчаться будувати і програмувати і відмінна освітня допомога для вчителів на уроках, присвячених STEAM. Це також частий учасник у важкій вазі на великих змаганнях роботів, таких як MakeX.</p>\n<p>На цьому курсі вас чекає 11 уроків по Scratch.</p>\n",
-      "image": "https://test-osvita-code-v2.github.io/robotics/robotics/assets/images/robotics.jpg",
+      "content_html": "<h1 id=\"robotics-mbot\"> Robotics mBot</h1>\n<h2 id=\"навчись-програмувати-роботів-mbot\"> Навчись програмувати роботів mBot</h2>\n<p><img src=\"https://test-osvita-code-v2.github.io/robotics/assets/images/robotics.jpg\" alt=\"mBot\" /></p>\n<p><em><strong>Робототехніка</strong></em> — прикладна наука, що опікується проєктуванням, розробкою, будівництвом, експлуатацією та використанням роботів, а також комп'ютерних систем для їх контролю, сенсорного (на основі вихідних сигналів давачів) зворотного зв'язку і обробки інформації автоматизованих технічних систем (роботів).\n<em><strong>mBot</strong></em> — освітній ігровий партнер для дітей, які вчаться будувати і програмувати і відмінна освітня допомога для вчителів на уроках, присвячених STEAM. Це також частий учасник у важкій вазі на великих змаганнях роботів, таких як MakeX.</p>\n<p>На цьому курсі вас чекає 11 уроків по Scratch.</p>\n",
+      "image": "https://test-osvita-code-v2.github.io/robotics/assets/images/robotics.jpg",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 1: Мишеня любить яблука",
+      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/",
+      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/",
+      "summary": "Мишеня любить яблука mBot",
+      "content_html": "<h1 id=\"урок-1-мишеня-любить-яблука\"> Урок 1: Мишеня любить яблука</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/1.pdf\" width=\"820px\" height=\"3470px\" />\n<embed src=\"https://www.youtube.com/embed/Roxwr3YNgdQ\" width=\"820px\" height=\"500px\" />\n",
+      "date_published": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -73,24 +73,9 @@
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/10/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/10/",
       "summary": "Вимірювач звуку  mBot",
-      "content_html": "<h1 id=\"урок-10-вимірювач-звуку\"> Урок 10: Вимірювач звуку</h1>\n<embed src=\"/assets/files/10.pdf\" width=\"820px\" height=\"2340px\" />\n<embed src=\"https://www.youtube.com/embed/gLzMg3x2uD4\" width=\"820px\" height=\"500px\" />",
+      "content_html": "<h1 id=\"урок-10-вимірювач-звуку\"> Урок 10: Вимірювач звуку</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/10.pdf\" width=\"820px\" height=\"2340px\" />\n<embed src=\"https://www.youtube.com/embed/gLzMg3x2uD4\" width=\"820px\" height=\"500px\" />",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
-      "authors": [
-        {
-          "name": "Serhii73, RenatTOP, Anat0liy12"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 2: Збір яблук",
-      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/",
-      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/",
-      "summary": "Збір яблукmBot",
-      "content_html": "<h1 id=\"урок-2-збір-яблук\"> Урок 2: Збір яблук</h1>\n<embed src=\"/assets/files/2.pdf\" width=\"820px\" height=\"2340px\" />\n<embed src=\"https://www.youtube.com/embed/cfBY1QHbquA\" width=\"820px\" height=\"500px\" />",
-      "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -103,9 +88,24 @@
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/11/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/11/",
       "summary": "Робот у лабіринті mBot",
-      "content_html": "<h1 id=\"урок-11-робот-у-лабіринті\"> Урок 11: Робот у лабіринті</h1>\n<embed src=\"/assets/files/11.pdf\" width=\"820px\" height=\"4600px\" />\n<embed src=\"https://www.youtube.com/embed/CJuWBPeGqzw\" width=\"820px\" height=\"500px\" />",
+      "content_html": "<h1 id=\"урок-11-робот-у-лабіринті\"> Урок 11: Робот у лабіринті</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/11.pdf\" width=\"820px\" height=\"4600px\" />\n<embed src=\"https://www.youtube.com/embed/CJuWBPeGqzw\" width=\"820px\" height=\"500px\" />",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 2: Збір яблук",
+      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/",
+      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/",
+      "summary": "Збір яблукmBot",
+      "content_html": "<h1 id=\"урок-2-збір-яблук\"> Урок 2: Збір яблук</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/2.pdf\" width=\"820px\" height=\"2340px\" />\n<embed src=\"https://www.youtube.com/embed/cfBY1QHbquA\" width=\"820px\" height=\"500px\" />",
+      "date_published": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -118,54 +118,9 @@
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/3/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/3/",
       "summary": "Чіт чи лишка mBot",
-      "content_html": "<h1 id=\"урок-3-чіт-чи-лишка\"> Урок 3: Чіт чи лишка</h1>\n<embed src=\"/assets/files/3.pdf\" width=\"820px\" height=\"5740px\" />\n<embed src=\"https://www.youtube.com/embed/ep9YkAt5khg\" width=\"820px\" height=\"500px\" />\n",
+      "content_html": "<h1 id=\"урок-3-чіт-чи-лишка\"> Урок 3: Чіт чи лишка</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/3.pdf\" width=\"820px\" height=\"5740px\" />\n<embed src=\"https://www.youtube.com/embed/ep9YkAt5khg\" width=\"820px\" height=\"500px\" />\n",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
-      "authors": [
-        {
-          "name": "Serhii73, RenatTOP, Anat0liy12"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 4: Відео гра",
-      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/4/",
-      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/4/",
-      "summary": "Відео гра mBot",
-      "content_html": "<h1 id=\"урок-4-відео-гра\"> Урок 4: Відео гра</h1>\n<embed src=\"/assets/files/4.pdf\" width=\"820px\" height=\"5740px\" />\n<embed src=\"https://www.youtube.com/embed/lMoXY3rQ9no\" width=\"820px\" height=\"500px\" />",
-      "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
-      "authors": [
-        {
-          "name": "Serhii73, RenatTOP, Anat0liy12"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 7: Патрульний робот",
-      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/7/",
-      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/7/",
-      "summary": "Патрульний робот mBot",
-      "content_html": "<h1 id=\"урок-7-патрульнии-робот\"> Урок 7: Патрульний робот</h1>\n<embed src=\"/assets/files/7.pdf\" width=\"820px\" height=\"4600px\" />\n<embed src=\"https://www.youtube.com/embed/g2juoQSIi6c\" width=\"820px\" height=\"500px\" />",
-      "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
-      "authors": [
-        {
-          "name": "Serhii73, RenatTOP, Anat0liy12"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 8: Ультразвуковий далекомір",
-      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/8/",
-      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/8/",
-      "summary": "Ультразвуковий далекомір mBot",
-      "content_html": "<h1 id=\"урок-8-ультразвуковии-далекомір\"> Урок 8: Ультразвуковий далекомір</h1>\n<embed src=\"/assets/files/8.pdf\" width=\"820px\" height=\"3470px\" />\n<embed src=\"https://www.youtube.com/embed/q5AQRCP3kI8\" width=\"820px\" height=\"500px\" />",
-      "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -178,9 +133,24 @@
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/5/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/5/",
       "summary": "Траєкторія руху робота   mBot",
-      "content_html": "<h1 id=\"урок-5-траєкторія-руху-робота\"> Урок 5: Траєкторія руху робота</h1>\n<embed src=\"/assets/files/5.pdf\" width=\"820px\" height=\"5740px\" />\n<embed src=\"https://www.youtube.com/embed/9ye6937JiYQ\" width=\"820px\" height=\"500px\" />",
+      "content_html": "<h1 id=\"урок-5-траєкторія-руху-робота\"> Урок 5: Траєкторія руху робота</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/5.pdf\" width=\"820px\" height=\"5740px\" />\n<embed src=\"https://www.youtube.com/embed/9ye6937JiYQ\" width=\"820px\" height=\"500px\" />",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 4: Відео гра",
+      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/4/",
+      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/4/",
+      "summary": "Відео гра mBot",
+      "content_html": "<h1 id=\"урок-4-відео-гра\"> Урок 4: Відео гра</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/4.pdf\" width=\"820px\" height=\"5740px\" />\n<embed src=\"https://www.youtube.com/embed/lMoXY3rQ9no\" width=\"820px\" height=\"500px\" />",
+      "date_published": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -193,9 +163,39 @@
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/6/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/6/",
       "summary": "Майстер ухиляння mBot",
-      "content_html": "<h1 id=\"урок-6-маистер-ухиляння\"> Урок 6: Майстер ухиляння</h1>\n<embed src=\"/assets/files/6.pdf\" width=\"820px\" height=\"4600px\" />\n<embed src=\"https://www.youtube.com/embed/Ro0dmqXchOc\" width=\"820px\" height=\"500px\" />\n",
+      "content_html": "<h1 id=\"урок-6-маистер-ухиляння\"> Урок 6: Майстер ухиляння</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/6.pdf\" width=\"820px\" height=\"4600px\" />\n<embed src=\"https://www.youtube.com/embed/Ro0dmqXchOc\" width=\"820px\" height=\"500px\" />\n",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 7: Патрульний робот",
+      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/7/",
+      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/7/",
+      "summary": "Патрульний робот mBot",
+      "content_html": "<h1 id=\"урок-7-патрульнии-робот\"> Урок 7: Патрульний робот</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/7.pdf\" width=\"820px\" height=\"4600px\" />\n<embed src=\"https://www.youtube.com/embed/g2juoQSIi6c\" width=\"820px\" height=\"500px\" />",
+      "date_published": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 8: Ультразвуковий далекомір",
+      "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/8/",
+      "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/8/",
+      "summary": "Ультразвуковий далекомір mBot",
+      "content_html": "<h1 id=\"урок-8-ультразвуковии-далекомір\"> Урок 8: Ультразвуковий далекомір</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/8.pdf\" width=\"820px\" height=\"3470px\" />\n<embed src=\"https://www.youtube.com/embed/q5AQRCP3kI8\" width=\"820px\" height=\"500px\" />",
+      "date_published": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"
@@ -208,9 +208,9 @@
       "url": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/9/",
       "id": "https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/9/",
       "summary": "День-ніч  mBot",
-      "content_html": "<h1 id=\"урок-9-день-ніч\"> Урок 9: День-ніч</h1>\n<embed src=\"/assets/files/9.pdf\" width=\"820px\" height=\"2340px\" />\n<embed src=\"https://www.youtube.com/embed/AjnS888m-i8\" width=\"820px\" height=\"500px\" />",
+      "content_html": "<h1 id=\"урок-9-день-ніч\"> Урок 9: День-ніч</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/robotics/assets/files/9.pdf\" width=\"820px\" height=\"2340px\" />\n<embed src=\"https://www.youtube.com/embed/AjnS888m-i8\" width=\"820px\" height=\"500px\" />",
       "date_published": "2021-06-12T11:01:29.000Z",
-      "date_modified": "2021-06-12T11:01:29.000Z",
+      "date_modified": "2021-06-12T12:21:20.000Z",
       "authors": [
         {
           "name": "Serhii73, RenatTOP, Anat0liy12"

@@ -6,22 +6,11 @@
     <link>https://test-osvita-code-v2.github.io/robotics/robotics/</link>
     <description>Robotics mBot by osvita-code</description>
     <language>en-US</language>
-    <pubDate>Sat, 12 Jun 2021 11:01:47 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 11:01:47 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 12:21:27 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 12:21:27 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Serhii73, RenatTOP, Anat0liy12</copyright>
-    <item>
-      <title>Вступ, підготовка mBot</title>
-      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/</link>
-      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/</guid>
-      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Вступ, підготовка mBot</source>
-      <description>Вступ до робототехніки mBot</description>
-      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="вступ-підготовка-mbot"> Вступ, підготовка mBot</h2>
-<embed src="/assets/files/0.pdf" width="820px" height="2340px" />
-]]></content:encoded>
-    </item>
     <item>
       <title>mBot</title>
       <link>https://test-osvita-code-v2.github.io/robotics/robotics/</link>
@@ -33,15 +22,14 @@
 <Redirect to="/lessons/" />]]></content:encoded>
     </item>
     <item>
-      <title>Урок 1: Мишеня любить яблука</title>
-      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/</link>
-      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/</guid>
-      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 1: Мишеня любить яблука</source>
-      <description>Мишеня любить яблука mBot</description>
+      <title>Вступ, підготовка mBot</title>
+      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/</link>
+      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/0/</guid>
+      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Вступ, підготовка mBot</source>
+      <description>Вступ до робототехніки mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-1-мишеня-любить-яблука"> Урок 1: Мишеня любить яблука</h1>
-<embed src="/assets/files/1.pdf" width="820px" height="3470px" />
-<embed src="https://www.youtube.com/embed/Roxwr3YNgdQ" width="820px" height="500px" />
+      <content:encoded><![CDATA[<h2 id="вступ-підготовка-mbot"> Вступ, підготовка mBot</h2>
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/0.pdf" width="820px" height="2340px" />
 ]]></content:encoded>
     </item>
     <item>
@@ -52,12 +40,24 @@
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="robotics-mbot"> Robotics mBot</h1>
 <h2 id="навчись-програмувати-роботів-mbot"> Навчись програмувати роботів mBot</h2>
-<p><img src="/assets/images/robotics.jpg" alt="mBot" /></p>
+<p><img src="https://test-osvita-code-v2.github.io/robotics/assets/images/robotics.jpg" alt="mBot" /></p>
 <p><em><strong>Робототехніка</strong></em> — прикладна наука, що опікується проєктуванням, розробкою, будівництвом, експлуатацією та використанням роботів, а також комп'ютерних систем для їх контролю, сенсорного (на основі вихідних сигналів давачів) зворотного зв'язку і обробки інформації автоматизованих технічних систем (роботів).
 <em><strong>mBot</strong></em> — освітній ігровий партнер для дітей, які вчаться будувати і програмувати і відмінна освітня допомога для вчителів на уроках, присвячених STEAM. Це також частий учасник у важкій вазі на великих змаганнях роботів, таких як MakeX.</p>
 <p>На цьому курсі вас чекає 11 уроків по Scratch.</p>
 ]]></content:encoded>
-      <enclosure url="https://test-osvita-code-v2.github.io/robotics/robotics/assets/images/robotics.jpg" type="image/jpeg"/>
+      <enclosure url="https://test-osvita-code-v2.github.io/robotics/assets/images/robotics.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Урок 1: Мишеня любить яблука</title>
+      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/</link>
+      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/1/</guid>
+      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 1: Мишеня любить яблука</source>
+      <description>Мишеня любить яблука mBot</description>
+      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-1-мишеня-любить-яблука"> Урок 1: Мишеня любить яблука</h1>
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/1.pdf" width="820px" height="3470px" />
+<embed src="https://www.youtube.com/embed/Roxwr3YNgdQ" width="820px" height="500px" />
+]]></content:encoded>
     </item>
     <item>
       <title>Урок 10: Вимірювач звуку</title>
@@ -67,19 +67,8 @@
       <description>Вимірювач звуку  mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-10-вимірювач-звуку"> Урок 10: Вимірювач звуку</h1>
-<embed src="/assets/files/10.pdf" width="820px" height="2340px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/10.pdf" width="820px" height="2340px" />
 <embed src="https://www.youtube.com/embed/gLzMg3x2uD4" width="820px" height="500px" />]]></content:encoded>
-    </item>
-    <item>
-      <title>Урок 2: Збір яблук</title>
-      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/</link>
-      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/</guid>
-      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 2: Збір яблук</source>
-      <description>Збір яблукmBot</description>
-      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-2-збір-яблук"> Урок 2: Збір яблук</h1>
-<embed src="/assets/files/2.pdf" width="820px" height="2340px" />
-<embed src="https://www.youtube.com/embed/cfBY1QHbquA" width="820px" height="500px" />]]></content:encoded>
     </item>
     <item>
       <title>Урок 11: Робот у лабіринті</title>
@@ -89,8 +78,19 @@
       <description>Робот у лабіринті mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-11-робот-у-лабіринті"> Урок 11: Робот у лабіринті</h1>
-<embed src="/assets/files/11.pdf" width="820px" height="4600px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/11.pdf" width="820px" height="4600px" />
 <embed src="https://www.youtube.com/embed/CJuWBPeGqzw" width="820px" height="500px" />]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 2: Збір яблук</title>
+      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/</link>
+      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/2/</guid>
+      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 2: Збір яблук</source>
+      <description>Збір яблукmBot</description>
+      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-2-збір-яблук"> Урок 2: Збір яблук</h1>
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/2.pdf" width="820px" height="2340px" />
+<embed src="https://www.youtube.com/embed/cfBY1QHbquA" width="820px" height="500px" />]]></content:encoded>
     </item>
     <item>
       <title>Урок 3: Чіт чи лишка</title>
@@ -100,9 +100,20 @@
       <description>Чіт чи лишка mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-3-чіт-чи-лишка"> Урок 3: Чіт чи лишка</h1>
-<embed src="/assets/files/3.pdf" width="820px" height="5740px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/3.pdf" width="820px" height="5740px" />
 <embed src="https://www.youtube.com/embed/ep9YkAt5khg" width="820px" height="500px" />
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 5: Траєкторія руху робота</title>
+      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/5/</link>
+      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/5/</guid>
+      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 5: Траєкторія руху робота</source>
+      <description>Траєкторія руху робота   mBot</description>
+      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-5-траєкторія-руху-робота"> Урок 5: Траєкторія руху робота</h1>
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/5.pdf" width="820px" height="5740px" />
+<embed src="https://www.youtube.com/embed/9ye6937JiYQ" width="820px" height="500px" />]]></content:encoded>
     </item>
     <item>
       <title>Урок 4: Відео гра</title>
@@ -112,8 +123,20 @@
       <description>Відео гра mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-4-відео-гра"> Урок 4: Відео гра</h1>
-<embed src="/assets/files/4.pdf" width="820px" height="5740px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/4.pdf" width="820px" height="5740px" />
 <embed src="https://www.youtube.com/embed/lMoXY3rQ9no" width="820px" height="500px" />]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 6: Майстер ухиляння</title>
+      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/6/</link>
+      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/6/</guid>
+      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 6: Майстер ухиляння</source>
+      <description>Майстер ухиляння mBot</description>
+      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-6-маистер-ухиляння"> Урок 6: Майстер ухиляння</h1>
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/6.pdf" width="820px" height="4600px" />
+<embed src="https://www.youtube.com/embed/Ro0dmqXchOc" width="820px" height="500px" />
+]]></content:encoded>
     </item>
     <item>
       <title>Урок 7: Патрульний робот</title>
@@ -123,7 +146,7 @@
       <description>Патрульний робот mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-7-патрульнии-робот"> Урок 7: Патрульний робот</h1>
-<embed src="/assets/files/7.pdf" width="820px" height="4600px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/7.pdf" width="820px" height="4600px" />
 <embed src="https://www.youtube.com/embed/g2juoQSIi6c" width="820px" height="500px" />]]></content:encoded>
     </item>
     <item>
@@ -134,31 +157,8 @@
       <description>Ультразвуковий далекомір mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-8-ультразвуковии-далекомір"> Урок 8: Ультразвуковий далекомір</h1>
-<embed src="/assets/files/8.pdf" width="820px" height="3470px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/8.pdf" width="820px" height="3470px" />
 <embed src="https://www.youtube.com/embed/q5AQRCP3kI8" width="820px" height="500px" />]]></content:encoded>
-    </item>
-    <item>
-      <title>Урок 5: Траєкторія руху робота</title>
-      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/5/</link>
-      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/5/</guid>
-      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 5: Траєкторія руху робота</source>
-      <description>Траєкторія руху робота   mBot</description>
-      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-5-траєкторія-руху-робота"> Урок 5: Траєкторія руху робота</h1>
-<embed src="/assets/files/5.pdf" width="820px" height="5740px" />
-<embed src="https://www.youtube.com/embed/9ye6937JiYQ" width="820px" height="500px" />]]></content:encoded>
-    </item>
-    <item>
-      <title>Урок 6: Майстер ухиляння</title>
-      <link>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/6/</link>
-      <guid>https://test-osvita-code-v2.github.io/robotics/robotics/lessons/mbot_ranger/6/</guid>
-      <source url="https://test-osvita-code-v2.github.io/robotics/robotics/rss.xml">Урок 6: Майстер ухиляння</source>
-      <description>Майстер ухиляння mBot</description>
-      <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-6-маистер-ухиляння"> Урок 6: Майстер ухиляння</h1>
-<embed src="/assets/files/6.pdf" width="820px" height="4600px" />
-<embed src="https://www.youtube.com/embed/Ro0dmqXchOc" width="820px" height="500px" />
-]]></content:encoded>
     </item>
     <item>
       <title>Урок 9: День-ніч</title>
@@ -168,7 +168,7 @@
       <description>День-ніч  mBot</description>
       <pubDate>Sat, 12 Jun 2021 11:01:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-9-день-ніч"> Урок 9: День-ніч</h1>
-<embed src="/assets/files/9.pdf" width="820px" height="2340px" />
+<embed src="https://test-osvita-code-v2.github.io/robotics/assets/files/9.pdf" width="820px" height="2340px" />
 <embed src="https://www.youtube.com/embed/AjnS888m-i8" width="820px" height="500px" />]]></content:encoded>
     </item>
   </channel>
