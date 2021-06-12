@@ -1,0 +1,16 @@
+{
+    "name": "osvita-code",
+    "version": "1.0.0",
+    "description": "Robotics mBot by osvita-code",
+    "license": "MIT",
+    "scripts": {
+        "build": "vuepress build src",
+        "clean-dev": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src --no-cache",
+        "dev": "vuepress dev src --temp .temp",
+        "eject-theme": "vuepress eject-hope src"
+    },
+    "devDependencies": {
+        "vuepress": "^1.8.2",
+        "vuepress-theme-hope": "^1.18.1"
+    }
+}
